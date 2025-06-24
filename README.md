@@ -38,7 +38,7 @@ KCI-LLM-Trace-Analysis/
 ├── 03_ExcessWord_Analysis/     # 연도별 과잉어휘 분석 노트북
 ├── 04_Visualizations/          # Word shift 등 시각화 결과물
 ├── 05_Appendix_Resources/      # 부속 문서 및 공식 PDF 자료 (정보이용 신청서 등)
-└── README.md                   # 리포지터리 설명 파일 (바로 이 파일)
+└── README.md                   # 리포지터리 설명 파일
 ```
 
 ---
